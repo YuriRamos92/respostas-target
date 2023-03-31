@@ -19,6 +19,6 @@ int main()
     if (j == num)
         cout << num << " pertence a sequencia de fibonacci" << endl;
     else
-        cout << num << " não pertence a sequencia de fibonatti" << endl;
+        cout << num << " não pertence a sequencia de fibonacci" << endl;
     return 0;
 }
